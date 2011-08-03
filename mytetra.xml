@@ -14,12 +14,86 @@
     </recordtable>
    </node>
   </node>
-  <node id="1312207901pa42ovil18" name="Linux">
-   <node id="13122079115jxfxko2us" name="Debian">
+  <node id="1312383339nonsjyp4jq" name="Computers">
+   <node id="13123833742z3fwhwa4l" name="OS">
+    <node id="13123833812albubkt5r" name="Linux">
+     <recordtable>
+      <record dir="1312383413hyk86jrbz5" crypt="0" url="" tags="" author="" id="1312383413lfc8gec2b4" ctime="20110803165653" name="Moving a Subversion Repository to Another Server" file="text.html"/>
+     </recordtable>
+     <node id="13123833940rm1245xc0" name="Debian"/>
+    </node>
+   </node>
+   <node id="1312383433p8vzvma0dp" name="Hardware">
     <recordtable>
-     <record dir="131221120828rq3erb26" crypt="0" url="" tags="" author="" id="1312211208l4iy70p5en" ctime="20110801170648" name="Moving a Subversion Repository to Another Server" file="text.html"/>
+     <record dir="1312383469npsi444u4h" crypt="0" url="" tags="" author="" id="1312383469kc5gmi500h" ctime="20110803165749" name="YuStation parts" file="text.html"/>
+     <record dir="1312385067b5eveixyjb" crypt="0" url="" tags="" author="" id="1312385067lirhcmbzvb" ctime="20110803172427" name="Wi-Fi Router" file="text.html"/>
     </recordtable>
    </node>
+  </node>
+  <node id="13123836730qphc8asfr" name="Films">
+   <recordtable>
+    <record dir="1312383696u5e3wznyt7" crypt="0" url="" tags="" author="" id="131238369668p6vwzevb" ctime="20110803170136" name="To see" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="13123837521d7fx4ekin" name="Literature">
+   <recordtable>
+    <record dir="1312383777ukj2zgmth4" crypt="0" url="" tags="" author="" id="1312383777wpo72yeb4y" ctime="20110803170257" name="To read" file="text.html"/>
+    <record dir="13123838646ycu5e9j6d" crypt="0" url="" tags="" author="" id="1312383864ymz0s0fhpn" ctime="20110803170424" name="Все строки на О" file="text.html"/>
+    <record dir="1312383895c8zr87snox" crypt="0" url="" tags="" author="" id="1312383895rtcdr2jgys" ctime="20110803170455" name="Все строки на П" file="text.html"/>
+    <record dir="1312385143zp2gnqlna7" crypt="0" url="" tags="" author="" id="1312385143m054j575oy" ctime="20110803172543" name="Lingvo Umgangssprache Dicts" file="text.html"/>
+   </recordtable>
+   <node id="1312385497y3dyodcp2g" name="Deutsch">
+    <recordtable>
+     <record dir="1312385512g3s91wnt15" crypt="0" url="" tags="" author="" id="13123855129ixsi13n3t" ctime="20110803173152" name="Redewendungen" file="text.html"/>
+     <record dir="1312385600ys0v0ycjlg" crypt="0" url="" tags="" author="" id="1312385600d717phun4e" ctime="20110803173320" name="Фриц Буш" file="text.html"/>
+     <record dir="13123858203d8os2xywd" crypt="0" url="" tags="" author="" id="13123858208s88fesnsi" ctime="20110803173700" name="Briefe" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="1312386092c6v5oj0pcs" name="English">
+    <recordtable>
+     <record dir="1312386109y7h9t6stbk" crypt="0" url="" tags="" author="" id="131238610919f4hh1emc" ctime="20110803174149" name="Polite asking" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node id="1312383917w95v1tj9w7" name="Bikes">
+   <recordtable>
+    <record dir="131238397542l9x22gbz" crypt="0" url="" tags="" author="" id="13123839754x21vjpczt" ctime="20110803170615" name="Schloss" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="1312384247q2zrrdta9k" name="Travian">
+   <node id="1312384258drtytd4hr2" name="ru1">
+    <recordtable>
+     <record dir="1312384315y9irosks9b" crypt="0" url="" tags="" author="" id="1312384315a49ufx62vr" ctime="20110803171155" name="Деревни" file="text.html"/>
+     <record dir="13123843689wui69vcrq" crypt="0" url="" tags="" author="" id="1312384368knjm5am4se" ctime="20110803171248" name="Cr.Br participants" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="1312385268kji3fmtg93" name="de6">
+    <recordtable>
+     <record dir="1312385286j0j23eodad" crypt="0" url="" tags="" author="" id="1312385286ge40o04jjs" ctime="20110803172806" name="Texts" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node id="1312385084uxi8tdrqra" name="Music">
+   <recordtable>
+    <record dir="1312385103mk2k8vxz1o" crypt="0" url="" tags="" author="" id="1312385103qjgy8pz36j" ctime="20110803172503" name="Nice electro" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="13123853670cmpuqsnnb" name="Other">
+   <recordtable>
+    <record dir="1312385375ultwa3miqp" crypt="0" url="" tags="" author="" id="131238537590ekl0e0o4" ctime="20110803172935" name="UniCut" file="text.html"/>
+    <record dir="1312385773usmtatmw33" crypt="0" url="" tags="" author="" id="1312385773fzv0lfe8qu" ctime="20110803173613" name="Сенсационные заявления христианских ученых" file="text.html"/>
+    <record dir="1312385989luhn1gwlvu" crypt="0" url="" tags="" author="" id="1312385989fdg2f8seop" ctime="20110803173949" name="Короткий неврологический тест" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="13123859109aeuk36x3a" name="Games">
+   <recordtable>
+    <record dir="1312385948eol8y5rkiv" crypt="0" url="" tags="" author="" id="1312385948ull6j94zxt" ctime="20110803173908" name="Stalker Call of Prypyat" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="1312386033hb5yymeb79" name="Astronomy">
+   <recordtable>
+    <record dir="1312386042wh0hgf3a6r" crypt="0" url="" tags="" author="" id="13123860420rt28e0dst" ctime="20110803174042" name="Telescope" file="text.html"/>
+   </recordtable>
   </node>
  </content>
 </root>
