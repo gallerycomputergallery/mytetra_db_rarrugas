@@ -6,6 +6,7 @@
   <node crypt="1" id="1" name="jO6VGqgoP/RNoZJAebM1TF91gJ953UchR8sY0WhznVA=">
    <recordtable>
     <record dir="1312198775oggx8zdw5t" crypt="1" url="" tags="" author="" id="1312198775lmjrmyv59s" ctime="20110801133935" name="bFfANfZgQpGfvp/CNn4jUpBomgdtqMdu" file="text.html"/>
+    <record dir="1312469830mq9zpup3z3" crypt="1" url="" tags="" author="" id="1312469830fj3523raa7" ctime="20110804165710" name="U1skNdBHV08me+FjJpqBqKGKgabqimOBIPOYU2+KqoJh9aweEm6BfQ==" file="text.html"/>
    </recordtable>
    <node crypt="1" id="1312197007xyzn9rggc8" name="tlFmJVi2HGJ+ZGxBIWuNbIPMbyEmQsGm">
     <recordtable>
@@ -21,6 +22,13 @@
       <record dir="1312383413hyk86jrbz5" crypt="0" url="" tags="" author="" id="1312383413lfc8gec2b4" ctime="20110803165653" name="Moving a Subversion Repository to Another Server" file="text.html"/>
      </recordtable>
      <node id="13123833940rm1245xc0" name="Debian"/>
+    </node>
+    <node id="1312542058q6ls2awrol" name="Windows">
+     <node id="1312542064rif6ims3ea" name="7">
+      <recordtable>
+       <record dir="1312542078y7tbybtagr" crypt="0" url="" tags="" author="" id="1312542078mh18xf2073" ctime="20110805130118" name="Как отключить Windows Defender в windows 7 ?" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
    </node>
    <node id="1312383433p8vzvma0dp" name="Hardware">
