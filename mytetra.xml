@@ -103,5 +103,10 @@
     <record dir="1312386042wh0hgf3a6r" crypt="0" url="" tags="" author="" id="13123860420rt28e0dst" ctime="20110803174042" name="Telescope" file="text.html"/>
    </recordtable>
   </node>
+  <node id="1312796828aatkqoyfew" name="Trips">
+   <recordtable>
+    <record dir="1312797660bniq1ffkma" crypt="0" url="" tags="" author="" id="1312797660xpolnxc3h1" ctime="20110808120100" name="Bielefeld-Wien-Graz-Bielefeld" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
