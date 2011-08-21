@@ -128,6 +128,19 @@
     <record dir="1313768540jbuicdt1ho" crypt="0" url="" tags="" author="" id="1313768540jdh7c36n6y" ctime="20110819174220" name="Авантюрист: золото" file="text.html"/>
    </recordtable>
   </node>
-  <node id="1313948736g2evvxt8rb" name="Sveta"/>
+  <node id="1313948736g2evvxt8rb" name="Sveta">
+   <recordtable>
+    <record dir="1313952486qqw7esoas9" crypt="0" url="" tags="" author="" id="1313952486hg5eh31vkz" ctime="20110821204806" name="Мишины высказывания" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="1" id="1313962877wph3j1784c" name="0by0MaI+X0BNKm6PP2Q2BB/t8RE4qSO9CjwYsareQCA=">
+   <node crypt="1" id="1313962932u1c33vrsex" name="Zv4jX1ZE0z724k12DU/+fC5if0AEzi21">
+    <node crypt="1" id="1313962948aj1p1qhrwz" name="c7xjav6ZQz45vgq/CcjQ+uj/VpS3Ktao+uJ93AWwf0U=">
+     <recordtable>
+      <record dir="1313963023hlimszjh3b" crypt="1" url="" tags="" author="" id="1313963023yfeswrp1vo" ctime="20110821234343" name="Rp1epd1/rkMOXRDFWqPB9tJtM+3xA/1K" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
  </content>
 </root>
