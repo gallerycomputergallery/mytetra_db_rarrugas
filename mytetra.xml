@@ -162,5 +162,12 @@
     </recordtable>
    </node>
   </node>
+  <node id="1315561796xl6stzaj4t" name="Talks">
+   <node id="1315561830k33quxn7bo" name="September-2011-Graz">
+    <recordtable>
+     <record dir="1315562085daxfo3ttdx" crypt="0" url="" tags="" author="" id="13155620855ede88o2mg" ctime="20110909115445" name="Talks structure" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
  </content>
 </root>
