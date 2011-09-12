@@ -71,19 +71,6 @@
     <record dir="131238397542l9x22gbz" crypt="0" url="" tags="" author="" id="13123839754x21vjpczt" ctime="20110803170615" name="Schloss" file="text.html"/>
    </recordtable>
   </node>
-  <node id="1312384247q2zrrdta9k" name="Travian">
-   <node id="1312384258drtytd4hr2" name="ru1">
-    <recordtable>
-     <record dir="1312384315y9irosks9b" crypt="0" url="" tags="" author="" id="1312384315a49ufx62vr" ctime="20110803171155" name="Деревни" file="text.html"/>
-     <record dir="13123843689wui69vcrq" crypt="0" url="" tags="" author="" id="1312384368knjm5am4se" ctime="20110803171248" name="Cr.Br participants" file="text.html"/>
-    </recordtable>
-   </node>
-   <node id="1312385268kji3fmtg93" name="de6">
-    <recordtable>
-     <record dir="1312385286j0j23eodad" crypt="0" url="" tags="" author="" id="1312385286ge40o04jjs" ctime="20110803172806" name="Texts" file="text.html"/>
-    </recordtable>
-   </node>
-  </node>
   <node id="1312385084uxi8tdrqra" name="Music">
    <recordtable>
     <record dir="1312385103mk2k8vxz1o" crypt="0" url="" tags="" author="" id="1312385103qjgy8pz36j" ctime="20110803172503" name="Nice electro" file="text.html"/>
@@ -105,6 +92,19 @@
    <recordtable>
     <record dir="1312385948eol8y5rkiv" crypt="0" url="" tags="" author="" id="1312385948ull6j94zxt" ctime="20110803173908" name="Stalker Call of Prypyat" file="text.html"/>
    </recordtable>
+   <node id="1315794284sz87rcuw1j" name="Travian">
+    <node id="1315794284kp8vsg8ciy" name="ru1">
+     <recordtable>
+      <record dir="1315794284azwmb2vwan" crypt="0" url="" tags="" author="" id="131579428423mrqtj0qk" ctime="20110912042444" name="Деревни" file="text.html"/>
+      <record dir="1315794284ja98lhouu7" crypt="0" url="" tags="" author="" id="1315794284846k6yn2ud" ctime="20110912042444" name="Cr.Br participants" file="text.html"/>
+     </recordtable>
+    </node>
+    <node id="13157942845dws4n1n3r" name="de6">
+     <recordtable>
+      <record dir="1315794284nn1cbntzx3" crypt="0" url="" tags="" author="" id="1315794284m57tpu7sch" ctime="20110912042444" name="Texts" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
   </node>
   <node id="1312386033hb5yymeb79" name="Astronomy">
    <recordtable>
@@ -146,6 +146,7 @@
      <recordtable>
       <record dir="1315301832dtkbawnzsq" crypt="1" url="" tags="" author="" id="1315301832ir3r5r613q" ctime="20110906113712" name="vXSrXKOC7wLZUjdFUzrQEDOjM8/XRDEN" file="text.html"/>
       <record dir="13155397533skfgrmaqr" crypt="1" url="" tags="" author="" id="13155397538u4kqz5760" ctime="20110909054233" name="S9+s8QBaExh4e2lgKsGd2StaZs338uw3" file="text.html"/>
+      <record dir="1315794254o1ullrx5mi" crypt="1" url="" tags="" author="" id="1315794254z0of25gucx" ctime="20110912042414" name="r8m/J8vYLUpKrXHbsVPDv8wOxlAL4z6P" file="text.html"/>
      </recordtable>
     </node>
    </node>
