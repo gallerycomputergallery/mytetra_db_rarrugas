@@ -21,7 +21,11 @@
      <recordtable>
       <record dir="1312383413hyk86jrbz5" crypt="0" url="" tags="" author="" id="1312383413lfc8gec2b4" ctime="20110803165653" name="Moving a Subversion Repository to Another Server" file="text.html"/>
      </recordtable>
-     <node id="13123833940rm1245xc0" name="Debian"/>
+     <node id="13123833940rm1245xc0" name="Debian">
+      <recordtable>
+       <record dir="1315910145fqqniyv7w2" crypt="0" url="" tags="" author="" id="1315910145ii7f25kye7" ctime="20110913123545" name="Useful repositories" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node id="1312542058q6ls2awrol" name="Windows">
      <node id="1312542064rif6ims3ea" name="7">
