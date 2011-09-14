@@ -175,5 +175,12 @@
     </recordtable>
    </node>
   </node>
+  <node id="13159933473t39pb4i41" name="Sport">
+   <node id="1315993386omdq1sh420" name="Race">
+    <recordtable>
+     <record dir="1315993451ydo3g4g19z" crypt="0" url="" tags="" author="" id="1315993451e3zbtqmdi2" ctime="20110914114411" name="Тест Конкони (Conconi)" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
  </content>
 </root>
