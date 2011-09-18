@@ -70,11 +70,6 @@
     </recordtable>
    </node>
   </node>
-  <node id="1312383917w95v1tj9w7" name="Bikes">
-   <recordtable>
-    <record dir="131238397542l9x22gbz" crypt="0" url="" tags="" author="" id="13123839754x21vjpczt" ctime="20110803170615" name="Schloss" file="text.html"/>
-   </recordtable>
-  </node>
   <node id="1312385084uxi8tdrqra" name="Music">
    <recordtable>
     <record dir="1312385103mk2k8vxz1o" crypt="0" url="" tags="" author="" id="1312385103qjgy8pz36j" ctime="20110803172503" name="Nice electro" file="text.html"/>
@@ -86,7 +81,6 @@
     <record dir="1312385773usmtatmw33" crypt="0" url="" tags="" author="" id="1312385773fzv0lfe8qu" ctime="20110803173613" name="Сенсационные заявления христианских ученых" file="text.html"/>
     <record dir="1312385989luhn1gwlvu" crypt="0" url="" tags="" author="" id="1312385989fdg2f8seop" ctime="20110803173949" name="Короткий неврологический тест" file="text.html"/>
     <record dir="13125607221v3lcphrx5" crypt="0" url="" tags="" author="" id="1312560722l65nn0v4l1" ctime="20110805181202" name="Москва --> Черноголовка" file="text.html"/>
-    <record dir="1312560743d53i86i3qj" crypt="0" url="" tags="" author="" id="1312560743k657i53e4c" ctime="20110805181223" name="Sveta's tel" file="text.html"/>
     <record dir="13127032305jjj9hpq41" crypt="0" url="" tags="" author="" id="1312703230rtch7vt57r" ctime="20110807094710" name="MEDION Kundennummer" file="text.html"/>
     <record dir="1313758247fqqgpx4yrs" crypt="0" url="" tags="" author="" id="1313758247mt8uh53dbq" ctime="20110819145047" name="Вамнеоббы" file="text.html"/>
     <record dir="1315128876wc9wexq3o6" crypt="0" url="" tags="" author="" id="1315128876osgu6ie233" ctime="20110904113436" name="...тем хуже для фактов" file="text.html"/>
@@ -128,10 +122,14 @@
   <node id="1312703068n3xthx7r32" name="Economy">
    <recordtable>
     <record dir="13127031025ls2vqz2xj" crypt="0" url="" tags="" author="" id="1312703102lwsa82mmpo" ctime="20110807094502" name="Макс Базерман и двадцатидолларовая купюра" file="text.html"/>
-    <record dir="1312703163pnmxdazzd5" crypt="0" url="" tags="" author="" id="1312703163o7yqy61mw1" ctime="20110807094603" name="гипотеза Авантюриста" file="text.html"/>
-    <record dir="1312703380q7l24sdxxk" crypt="0" url="" tags="" author="" id="131270338042uipcxbar" ctime="20110807094940" name="Авантюрист: обычный бедный обыватель и деньги" file="text.html"/>
-    <record dir="1313768540jbuicdt1ho" crypt="0" url="" tags="" author="" id="1313768540jdh7c36n6y" ctime="20110819174220" name="Авантюрист: золото" file="text.html"/>
    </recordtable>
+   <node id="1316306738m618g5kw2e" name="Avanturist">
+    <recordtable>
+     <record dir="1316306747n4rmvdy1hq" crypt="0" url="" tags="" author="" id="1316306747hjcirt3sp5" ctime="20110918024547" name="Авантюрист: золото" file="text.html"/>
+     <record dir="13163067540ght0y68y7" crypt="0" url="" tags="" author="" id="131630675474c7121b7d" ctime="20110918024554" name="Авантюрист: обычный бедный обыватель и деньги" file="text.html"/>
+     <record dir="13163067629txz12xqm9" crypt="0" url="" tags="" author="" id="13163067625sl0v6cwxb" ctime="20110918024602" name="гипотеза Авантюриста" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node id="1313948736g2evvxt8rb" name="Sveta">
    <recordtable>
@@ -155,9 +153,9 @@
      </recordtable>
     </node>
    </node>
-   <node crypt="1" id="1315301979vc7lhse3gw" name="ioGaml0hmDvWTs2eGBNDiAW1Z3S+SLy0">
+   <node crypt="1" id="1315301979vc7lhse3gw" name="9Klmh96Yt9XbodUa833ywXVoq+ovr0gnWbjl6X1K/08=">
     <recordtable>
-     <record dir="1315302132n058nqupqi" crypt="1" url="" tags="" author="" id="1315302132ojzhpnwcn5" ctime="20110906114212" name="2vitz5+GC0L0uBGXcc6Qlt5eSMry4+NKiMy8Aqw2YHlUuwi50qYJq5XwESXeMjHV" file="text.html"/>
+     <record dir="1315302132n058nqupqi" crypt="1" url="" tags="" author="" id="1315302132ojzhpnwcn5" ctime="20110906114212" name="Pdu/KBl5SA1pWGgrIMCbOHjDV86iCwHwd0vYK52AlWk=" file="text.html"/>
     </recordtable>
    </node>
   </node>
@@ -173,6 +171,11 @@
      <record dir="1316180871kuye6w5q2c" crypt="1" url="" tags="" author="" id="1316180871r66ljyqzij" ctime="20110916154751" name="yNIvpocYJFOXYfiBH0DFhHIH/jNRK3IM" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="1" id="13163069837klibs1vz8" name="34uRTRULE6pSIPGzyObwdvHRGqYVjxje/GgvmAhdcRB4bH8rE62Y7cLmgfBcGBxL9dUPfTjxslWQUZUuLApd3sLvd30DaStviC5bkvSl1IWOJqeUPijA0Q==">
+    <recordtable>
+     <record dir="1316306998dc2ipm5r7b" crypt="1" url="" tags="" author="" id="131630699881zcttep31" ctime="20110918024958" name="kW/ZD5pnLVNwAs96mtkS4XPA5M/hZJ2G" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node id="1315561796xl6stzaj4t" name="Talks">
    <node id="1315561830k33quxn7bo" name="September-2011-Graz">
@@ -186,6 +189,13 @@
     <recordtable>
      <record dir="1315993451ydo3g4g19z" crypt="0" url="" tags="" author="" id="1315993451e3zbtqmdi2" ctime="20110914114411" name="Тест Конкони (Conconi)" file="text.html"/>
     </recordtable>
+   </node>
+   <node id="1316306832b5yufg66be" name="Сycling">
+    <node id="1316306868fmztwu9j00" name="Bikes&amp;Other">
+     <recordtable>
+      <record dir="13163068773oaq7u18nc" crypt="0" url="" tags="" author="" id="13163068772ie1cbv1uc" ctime="20110918024757" name="Schloss" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
  </content>
