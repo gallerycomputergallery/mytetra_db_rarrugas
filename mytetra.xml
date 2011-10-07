@@ -114,6 +114,9 @@
    </recordtable>
   </node>
   <node id="1312702816a9tvnu94w6" name="Development">
+   <recordtable>
+    <record dir="131799255636wpy05jhb" crypt="0" url="" tags="" author="" id="1317992556wt3der41qi" ctime="20111007150236" name="GAMESS compiling" file="text.html"/>
+   </recordtable>
    <node id="1312702825gkfhum0un7" name="UNEX">
     <recordtable>
      <record dir="1312702864l442zq29up" crypt="0" url="" tags="" author="" id="1312702864jsln14lk7f" ctime="20110807094104" name="autocorrelation" file="text.html"/>
