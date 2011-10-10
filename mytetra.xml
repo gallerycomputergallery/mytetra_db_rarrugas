@@ -66,6 +66,8 @@
      <record dir="1312385512g3s91wnt15" crypt="0" url="" tags="" author="" id="13123855129ixsi13n3t" ctime="20110803173152" name="Redewendungen" file="text.html"/>
      <record dir="1312385600ys0v0ycjlg" crypt="0" url="" tags="" author="" id="1312385600d717phun4e" ctime="20110803173320" name="Фриц Буш" file="text.html"/>
      <record dir="13123858203d8os2xywd" crypt="0" url="" tags="" author="" id="13123858208s88fesnsi" ctime="20110803173700" name="Briefe" file="text.html"/>
+     <record dir="1318237720lglcv43j6c" crypt="0" url="" tags="" author="" id="1318237720e4ix4qc4a5" ctime="20111010110840" name="Ich freue mich auf Ihre Antwort. " file="text.html"/>
+     <record dir="1318239685lpdcv8nu8y" crypt="0" url="" tags="" author="" id="1318239685t4b8k087hv" ctime="20111010114125" name="Тонкое различие в смыслах" file="text.html"/>
     </recordtable>
    </node>
    <node id="1312386092c6v5oj0pcs" name="English">
@@ -126,6 +128,7 @@
      <record dir="1312749958844gk3xmqn" crypt="0" url="" tags="" author="" id="1312749958jp8uy82ewp" ctime="20110807224558" name="По поводу вычисление ошибок зависимых параметров" file="text.html"/>
      <record dir="1317256939c59g57wev7" crypt="0" url="" tags="" author="" id="1317256939jyndfizepj" ctime="20110929024219" name="To Do" file="text.html"/>
      <record dir="13178302544h4hma9ey1" crypt="0" url="" tags="" author="" id="1317830254lom5p4j58m" ctime="20111005175734" name="To Do 1.5" file="text.html"/>
+     <record dir="1318257341owqxm897yz" crypt="0" url="" tags="" author="" id="1318257341ktl2pmr85s" ctime="20111010163541" name="MinGW Cross compilation" file="text.html"/>
     </recordtable>
    </node>
    <node id="1317986602b041v3z0l0" name="Intel compiler">
