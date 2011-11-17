@@ -1,0 +1,9 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:10pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Courier New,courier'; font-weight:600;"># </span>zypper modifyrepo --all --disable</p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Courier New,courier'; font-weight:600;"># </span>zypper addrepo --name &quot;openSUSE-12.1 OSS&quot; http://download.opensuse.org/distribution/12.1/repo/oss/ repo-12.1-oss</p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Courier New,courier'; font-weight:600;"># </span>zypper addrepo --name &quot;openSUSE-12.1 Non-OSS&quot; http://download.opensuse.org/distribution/12.1/repo/non-oss/ repo-12.1-non-oss</p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Courier New,courier'; font-weight:600;"># </span>zypper addrepo --refresh --name &quot;openSUSE-12.1 Updates&quot; http://download.opensuse.org/update/12.1/ repo-12.1-update</p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Courier New,courier'; font-weight:600;"># zypper ref &amp;&amp; zypper -q dup -d <br /># init 3 <br /># zypper dup --download-in-advance <br /># shutdown -r now (to complete the Kernel Update)</span></p></body></html>

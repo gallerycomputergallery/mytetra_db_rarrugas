@@ -30,6 +30,11 @@
        <record dir="1315910145fqqniyv7w2" crypt="0" url="" tags="" author="" id="1315910145ii7f25kye7" ctime="20110913123545" name="Useful repositories" file="text.html"/>
       </recordtable>
      </node>
+     <node id="13215436149limtxshct" name="openSuSE">
+      <recordtable>
+       <record dir="13215437287wljp2xpei" crypt="0" url="" tags="" author="" id="1321543728j35wiuivee" ctime="20111117162848" name="Upgrade 11.x to 12.1" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node id="1312542058q6ls2awrol" name="Windows">
      <node id="1312542064rif6ims3ea" name="7">
