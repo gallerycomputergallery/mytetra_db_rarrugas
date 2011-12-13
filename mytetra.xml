@@ -24,6 +24,8 @@
       <record dir="1312383413hyk86jrbz5" crypt="0" url="" tags="" author="" id="1312383413lfc8gec2b4" ctime="20110803165653" name="Moving a Subversion Repository to Another Server" file="text.html"/>
       <record dir="1317637276c7xul81v0s" crypt="0" url="" tags="" author="" id="1317637276i8eq5bvioj" ctime="20111003122116" name="SVN: How to structure your repository" file="text.html"/>
       <record dir="1318100178dzeiqa32ek" crypt="0" url="" tags="" author="" id="1318100178qej8mpdkn5" ctime="20111008205618" name="SVN: Per-directory access" file="text.html"/>
+      <record dir="1323785773xgsv84bfv0" crypt="0" url="" tags="" author="" id="1323785773ta715itks8" ctime="20111213151613" name="ipcrm - how to clear a shared memory segment which ipcrm says does not exist" file="text.html"/>
+      <record dir="1323785797l65jz5bnjp" crypt="0" url="" tags="" author="" id="1323785797hyhg7at3rz" ctime="20111213151637" name="delete all shared memory and semaphores on linux" file="text.html"/>
      </recordtable>
      <node id="13123833940rm1245xc0" name="Debian">
       <recordtable>
