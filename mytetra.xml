@@ -294,5 +294,14 @@
     </node>
    </node>
   </node>
+  <node id="1324637116zwmzlxrucs" name="Science">
+   <node id="1324637124ilntdubwi1" name="Physics">
+    <node id="1324637133f69ly8l3b0" name="Quantum">
+     <recordtable>
+      <record dir="1324637193lnfr1itc5c" crypt="0" url="" tags="" author="" id="1324637193lmz502tnxt" ctime="20111223114633" name="КВАНТОВЫЙ МЕХАНИК ГЛАЗАМИ ШРЁДИНГЕРОВСКО(?) KATZE" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
  </content>
 </root>
