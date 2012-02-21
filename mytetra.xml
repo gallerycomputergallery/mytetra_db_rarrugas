@@ -289,6 +289,11 @@
      <record dir="1327142009va44npn7p8" crypt="1" url="" tags="" author="" id="1327142009zwqemv0jtf" ctime="20120121113329" name="Tt6sChOdqY0xxTwbmBTydNUaVFEiwpwU" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="1" id="1329833867jq3i04ca1b" name="3RTakvc5faKi6BoqGwBK8Zr3hoobCCgfNxQ+M2CbtSk=">
+    <recordtable>
+     <record dir="1329833899lj2qkor9u4" crypt="1" url="" tags="" author="" id="1329833899oi65bk31vk" ctime="20120221151819" name="Tk3U4td4GQ7vINUX+uN7lWC1J8lmBpgd" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node id="1315561796xl6stzaj4t" name="Talks">
    <node id="1315561830k33quxn7bo" name="September-2011-Graz">
@@ -316,6 +321,11 @@
    <node id="1327407299w8wx0kt1ro" name="Mountains">
     <recordtable>
      <record dir="1327407379qdz2v6hx4o" crypt="0" url="" tags="" author="" id="1327407379mwunw40hc0" ctime="20120124131619" name="Schuhe" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="1329826844yswm5aq2pp" name="Skiing">
+    <recordtable>
+     <record dir="1329826861belg5kucuj" crypt="0" url="" tags="" author="" id="1329826861gp09dhemui" ctime="20120221132101" name="Беговые лыжи для удовольствия" file="text.html"/>
     </recordtable>
    </node>
   </node>
