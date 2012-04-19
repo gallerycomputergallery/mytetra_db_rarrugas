@@ -333,6 +333,12 @@
      <record dir="1334475567pop0s9lgnl" crypt="0" url="" tags="" author="" id="1334475567p0tyvenyod" ctime="20120415093927" name="Личное снаряжение" file="text.html"/>
      <record dir="1334493092a9f7qqjmqy" crypt="0" url="" tags="" author="" id="13344930927mqi4egmru" ctime="20120415143132" name="ATC" file="text.html"/>
     </recordtable>
+    <node id="1334869069hyc6qlv39t" name="Kirgizia_2012">
+     <recordtable>
+      <record dir="13348690819a9vhb60kz" crypt="0" url="" tags="" author="" id="1334869081laciz1hcw4" ctime="20120419225801" name="Как проехать в аэропорт НОВОСИБИРСК ТОЛМАЧЕВО:" file="text.html"/>
+      <record dir="1334869142lj1xhhzftb" crypt="0" url="" tags="" author="" id="1334869142jl8uu104ay" ctime="20120419225902" name="s7" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node id="1329826844yswm5aq2pp" name="Skiing">
     <recordtable>
