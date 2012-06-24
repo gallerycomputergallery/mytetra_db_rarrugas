@@ -145,6 +145,7 @@
     <record dir="1335801748lcd6zlirdm" crypt="0" url="" tags="" author="" id="1335801748z9390afkzj" ctime="20120430180228" name="Информация участника &quot;Аэрофлот Бонус&quot;" file="text.html"/>
     <record dir="1335896374adu4doo4ue" crypt="0" url="" tags="" author="" id="1335896374bhir7mia7n" ctime="20120501201934" name="Koffer" file="text.html"/>
     <record dir="1336296021s50y1nj08k" crypt="0" url="" tags="" author="" id="13362960216zv4h7iivk" ctime="20120506112021" name="OZON.ru Пункт выдачи" file="text.html"/>
+    <record dir="1340538560wjy416adla" crypt="0" url="" tags="" author="" id="1340538560k7uqk4jfui" ctime="20120624134920" name="Билеты в Ганновер" file="text.html"/>
    </recordtable>
   </node>
   <node id="13123859109aeuk36x3a" name="Games">
@@ -354,6 +355,7 @@
      <recordtable>
       <record dir="13348690819a9vhb60kz" crypt="0" url="" tags="" author="" id="1334869081laciz1hcw4" ctime="20120419225801" name="Как проехать в аэропорт НОВОСИБИРСК ТОЛМАЧЕВО:" file="text.html"/>
       <record dir="1334869142lj1xhhzftb" crypt="0" url="" tags="" author="" id="1334869142jl8uu104ay" ctime="20120419225902" name="s7" file="text.html"/>
+      <record dir="13405292518d0d32fiv8" crypt="0" url="" tags="" author="" id="1340529251ue6kyba7xf" ctime="20120624111411" name="Train" file="text.html"/>
      </recordtable>
     </node>
    </node>
