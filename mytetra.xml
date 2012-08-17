@@ -365,6 +365,11 @@
      <record dir="1329826861belg5kucuj" crypt="0" url="" tags="" author="" id="1329826861gp09dhemui" ctime="20120221132101" name="Беговые лыжи для удовольствия" file="text.html"/>
     </recordtable>
    </node>
+   <node id="1345240714kjlqd0nr96" name="Chess">
+    <recordtable>
+     <record dir="13452407421c43ihj5o8" crypt="0" url="" tags="" author="" id="1345240742bj5gzdmaem" ctime="20120817235902" name="Books" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node id="1324637116zwmzlxrucs" name="Science">
    <node id="1324637124ilntdubwi1" name="Physics">
