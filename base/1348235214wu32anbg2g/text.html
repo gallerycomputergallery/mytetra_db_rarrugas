@@ -3,13 +3,15 @@
 p, li { white-space: pre-wrap; }
 </style></head><body style=" font-family:'DejaVu Sans'; font-size:10pt; font-weight:400; font-style:normal;">
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">On ACS02 (Opteron CPU)</p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">./configure LAPACK_LIBS='-Wl,--start-group /opt/acml4.4.0/gfortran64/lib/libacml.a /opt/acml4.4.0/gfortran64/lib/libacml_mv.a -Wl,--end-group' BLAS_LIBS=' ' MPIF90='mpif90.mpich-shmem'</p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">This did not work!!</p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">./configure --enable-parallel --disable-openmp --disable-cuda BLAS_LIBS=&quot;-Wl,--start-group /opt/acml4.4.0/gfortran64/lib/libacml.a /opt/acml4.4.0/gfortran64/lib/libacml_mv.a -Wl,--end-group&quot; LAPACK_LIBS=&quot; &quot; MPIF90=&quot;mpif90.mpich-shmem&quot;</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">make -j4 pwall</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">On YuStation (Intel)</p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">./configure --enable-parallel --disable-openmp --enable-cuda --with-gpu-arch=20 --with-cuda-dir=/usr MPIF90=mpif90.openmpi BLAS_LIBS=&quot;-L${MKLROOT} -lmkl_intel_lp64 -lmkl_sequential -lmkl_core&quot; LAPACK_LIBS=&quot; &quot; --prefix=/opt</p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">With CUDA:</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">./configure --enable-parallel --disable-openmp --enable-cuda --with-gpu-arch=20 --with-cuda-dir=/usr MPIF90=mpif90.openmpi BLAS_LIBS=&quot;-L${MKLROOT} -lmkl_intel_lp64 -lmkl_sequential -lmkl_core&quot; LAPACK_LIBS=&quot; &quot;</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Without CUDA:</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">./configure --enable-parallel --disable-openmp MPIF90=mpif90.openmpi BLAS_LIBS=&quot;-L${MKLROOT} -lmkl_intel_lp64 -lmkl_sequential -lmkl_core&quot; LAPACK_LIBS=&quot; &quot;</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"></p></body></html>
