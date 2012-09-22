@@ -131,7 +131,6 @@
     <record dir="1315128876wc9wexq3o6" crypt="0" url="" tags="" author="" id="1315128876osgu6ie233" ctime="20110904113436" name="...тем хуже для фактов" file="text.html"/>
     <record dir="1320939688p15hh3ftle" crypt="0" url="" tags="" author="" id="1320939688kdbp9ud9b9" ctime="20111110164128" name="Государство - это МЫ" file="text.html"/>
     <record dir="13212605927hxua9t4az" crypt="0" url="" tags="" author="" id="1321260592mijg1epck6" ctime="20111114094952" name="Школа в Америке" file="text.html"/>
-    <record dir="1321886057l1qof3gtuu" crypt="0" url="" tags="" author="" id="1321886057xc6hjwp70x" ctime="20111121153417" name="cfour" file="text.html"/>
     <record dir="13224196103vmvsmzf4y" crypt="0" url="" tags="" author="" id="1322419610kk0e7mqdxy" ctime="20111127194650" name="Americas Political System" file="text.html"/>
     <record dir="1323638172z9obfr2vno" crypt="0" url="" tags="" author="" id="1323638172kppfiamrew" ctime="20111211221612" name="Эволюция немецкой школы с 1973 по 2008 год." file="text.html"/>
     <record dir="13248311484403o35ysp" crypt="0" url="" tags="" author="" id="1324831148rhcw7gumrg" ctime="20111225173908" name="Геноцид стран" file="text.html"/>
@@ -179,6 +178,7 @@
    <recordtable>
     <record dir="131799255636wpy05jhb" crypt="0" url="" tags="" author="" id="1317992556wt3der41qi" ctime="20111007150236" name="GAMESS compiling" file="text.html"/>
     <record dir="1348235214wu32anbg2g" crypt="0" url="" tags="" author="" id="1348235214ud3j26wb00" ctime="20120921154654" name="Quantum Espresso Compilation" file="text.html"/>
+    <record dir="1348344896jcj0yrb0je" crypt="0" url="" tags="" author="" id="1348344896cv4fezzikz" ctime="20120922221456" name="Cfour compiling" file="text.html"/>
    </recordtable>
    <node id="1312702825gkfhum0un7" name="UNEX">
     <recordtable>
