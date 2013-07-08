@@ -432,7 +432,11 @@
       <record dir="1334869142lj1xhhzftb" crypt="0" url="" tags="" author="" id="1334869142jl8uu104ay" ctime="20120419225902" name="s7" file="text.html"/>
      </recordtable>
     </node>
-    <node id="1367220408q97qvx6c28" name="Pamir-2013"/>
+    <node id="1367220408q97qvx6c28" name="Pamir-2013">
+     <recordtable>
+      <record dir="13732754736d0usut62m" crypt="0" url="" tags="" author="" id="1373275473ebr4sgssf4" ctime="20130708112433" name="raskladka" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node id="1329826844yswm5aq2pp" name="Skiing">
     <recordtable>
