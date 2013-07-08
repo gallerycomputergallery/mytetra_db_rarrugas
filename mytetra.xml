@@ -164,17 +164,8 @@
   </node>
   <node id="13123859109aeuk36x3a" name="Games">
    <node id="1315794284sz87rcuw1j" name="Travian">
-    <node id="1315794284kp8vsg8ciy" name="ru1">
-     <recordtable>
-      <record dir="1315794284azwmb2vwan" crypt="0" url="" tags="" author="" id="131579428423mrqtj0qk" ctime="20110912042444" name="Деревни" file="text.html"/>
-      <record dir="1315794284ja98lhouu7" crypt="0" url="" tags="" author="" id="1315794284846k6yn2ud" ctime="20110912042444" name="Cr.Br participants" file="text.html"/>
-     </recordtable>
-    </node>
-    <node id="13157942845dws4n1n3r" name="de6">
-     <recordtable>
-      <record dir="1315794284nn1cbntzx3" crypt="0" url="" tags="" author="" id="1315794284m57tpu7sch" ctime="20110912042444" name="Texts" file="text.html"/>
-     </recordtable>
-    </node>
+    <node id="1315794284kp8vsg8ciy" name="ru1"/>
+    <node id="13157942845dws4n1n3r" name="de6"/>
    </node>
    <node id="13516808959yexggikr8" name="Space Rangers">
     <recordtable>
