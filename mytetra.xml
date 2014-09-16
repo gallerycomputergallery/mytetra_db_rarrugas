@@ -126,7 +126,6 @@
   <node id="1312385084uxi8tdrqra" name="Music"/>
   <node id="13123853670cmpuqsnnb" name="Other">
    <recordtable>
-    <record dir="1312385375ultwa3miqp" crypt="0" url="" tags="" author="" id="131238537590ekl0e0o4" ctime="20110803172935" name="UniCut" file="text.html"/>
     <record dir="1312385773usmtatmw33" crypt="0" url="" tags="" author="" id="1312385773fzv0lfe8qu" ctime="20110803173613" name="Сенсационные заявления христианских ученых" file="text.html"/>
     <record dir="1312385989luhn1gwlvu" crypt="0" url="" tags="" author="" id="1312385989fdg2f8seop" ctime="20110803173949" name="Короткий неврологический тест" file="text.html"/>
     <record dir="13125607221v3lcphrx5" crypt="0" url="" tags="" author="" id="1312560722l65nn0v4l1" ctime="20110805181202" name="Москва --> Черноголовка" file="text.html"/>
@@ -154,10 +153,6 @@
    </recordtable>
   </node>
   <node id="13123859109aeuk36x3a" name="Games">
-   <node id="1315794284sz87rcuw1j" name="Travian">
-    <node id="1315794284kp8vsg8ciy" name="ru1"/>
-    <node id="13157942845dws4n1n3r" name="de6"/>
-   </node>
    <node id="13516808959yexggikr8" name="Space Rangers">
     <recordtable>
      <record dir="1351680914mcr3sezokm" crypt="0" url="" tags="" author="" id="13516809146q8vdh266w" ctime="20121031115514" name="Пан Весельчак" file="text.html"/>
