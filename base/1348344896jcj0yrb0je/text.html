@@ -53,9 +53,18 @@ p, li { white-space: pre-wrap; }
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">For cheops:</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">-------------------------------------------------------------------------------------------------------------</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">FC=ifort CC=icc MPIF90=mpif90 MPIFC=mpif90 ./configure --with-blas=&quot;-Wl,--start-group libmkl_intel_ilp64.a libmkl_intel_thread.a libmkl_core.a -Wl,--end-group -openmp&quot; --prefix=/home/yvishnev/Apps/Cfour/cfour_v1_openmpi --enable-mpi=openmpi --with-mpirun=&quot;srun -n \$CFOUR_NUM_CORES&quot;</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">With OpenMPI</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Thread-safe version of OpenMPI must be used!</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Load an appropriate module, for example</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">module load openmpi/1.6.5_mt</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">fix make.config to be sure that full paths to mkl libs exist.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">FC=ifort CC=icc MPIF90=mpif90 MPIFC=mpif90 ./configure --with-blas=&quot;-Wl,--start-group libmkl_intel_ilp64.a libmkl_intel_thread.a libmkl_core.a -Wl,--end-group -openmp&quot; --prefix=/home/yvishnev/Apps/Cfour/cfour_v1_openmpi_mt --enable-mpi=openmpi --with-mpirun=&quot;srun -n \$CFOUR_NUM_CORES&quot;</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Cfour with IntelMPI it is not working, since binaries are linked with ilp64 version of IntelMPI which is bad for Cfour, since it uses integer(4) everywhere for MPI communacation.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Fix make.config to be sure that full paths to mkl libs exist. The path can be taken from MKLLIB var, which can be checked by 'export -p'.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Remove first '<span style=" font-family:'Courier New,courier';">-l</span>' from '<span style=" font-family:'Courier New,courier';">-l-Wl,--start-group</span>'.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">make</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">make install</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
